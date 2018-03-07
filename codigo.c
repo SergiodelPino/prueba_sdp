@@ -1,4 +1,4 @@
-este es un archivo de prueba que esta en la V1
+este es un archivo de prueba que esta en la V2
 
 El texto que esta ingresado es el siguiente
 
